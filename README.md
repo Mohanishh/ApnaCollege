@@ -1,3 +1,3 @@
 # ApnaCollege
-This is my first repository 
-Auother - Nish
+This is my first repository. 
+Auther - Nish
